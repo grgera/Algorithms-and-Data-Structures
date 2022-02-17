@@ -8,12 +8,14 @@ Repository contains task conditions and my solutions that were offered in the se
   + Task B: [*condition*](https://github.com/grgera/Algorithms-and-Data-Structures/blob/main/First%20Contest/Tasks/task_b.txt) | [*solution*](https://github.com/grgera/Algorithms-and-Data-Structures/blob/main/First%20Contest/Solutions/task_b.cpp)
   + Task C: [*condition*](https://github.com/grgera/Algorithms-and-Data-Structures/blob/main/First%20Contest/Tasks/task_c.txt) | [*solution*](https://github.com/grgera/Algorithms-and-Data-Structures/blob/main/First%20Contest/Solutions/task_c.cpp)
 
-<!-- + ### Second Contest
-  + Task A: *condition* | *solution*
-  + Task B: *condition* | *solution*
-  + Task C: *condition* | *solution*
++ ### Second Contest
+  + Task A: [*condition*](https://github.com/grgera/Algorithms-and-Data-Structures/blob/main/Second%20Contest/Tasks/task_a.txt) | [*solution*](https://github.com/grgera/Algorithms-and-Data-Structures/blob/main/Second%20Contest/Solutions/task_a.cpp)
+  + Task B: [*condition*](https://github.com/grgera/Algorithms-and-Data-Structures/blob/main/Second%20Contest/Tasks/task_b.txt) | [*solution*](https://github.com/grgera/Algorithms-and-Data-Structures/blob/main/Second%20Contest/Solutions/task_b.cpp)
+  + Task C: [*condition*](https://github.com/grgera/Algorithms-and-Data-Structures/blob/main/Second%20Contest/Tasks/task_c.txt) | [*solution*](https://github.com/grgera/Algorithms-and-Data-Structures/blob/main/Second%20Contest/Solutions/task_c.cpp)
+  + Task D: [*condition*](https://github.com/grgera/Algorithms-and-Data-Structures/blob/main/Second%20Contest/Tasks/task_d.txt) | [*solution*](https://github.com/grgera/Algorithms-and-Data-Structures/blob/main/Second%20Contest/Solutions/task_d.cpp)
+  + Task E: [*condition*](https://github.com/grgera/Algorithms-and-Data-Structures/blob/main/Second%20Contest/Tasks/task_e.txt) | [*solution*](https://github.com/grgera/Algorithms-and-Data-Structures/blob/main/Second%20Contest/Solutions/task_e.cpp)
 
-+ ### Third Contest
+<!-- + ### Third Contest
   + Task A: *condition* | *solution*
   + Task B: *condition* | *solution*
   + Task C: *condition* | *solution*
@@ -21,4 +23,4 @@ Repository contains task conditions and my solutions that were offered in the se
 + ### Fourth Contest
   + Task A: *condition* | *solution*
   + Task B: *condition* | *solution*
-  + Task C: *condition* | *solution* -->
+  + Task C: *condition* | *solution* 
